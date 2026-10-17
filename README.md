@@ -26,7 +26,9 @@
   <tr>
     <td width="50%" valign="top">
       <a href="https://youssefezzat17.github.io/angular-lab/">
-        <img src="https://raw.githubusercontent.com/YoussefEzzat17/angular-lab/main/docs/screenshots/home-dark.png" alt="Angular Lab screenshot" width="100%" />
+        <img src="https://raw.githubusercontent.com/YoussefEzzat17/angular-lab/main/docs/screenshots/home-dark.png" alt="Angular Lab in dark mode" width="100%" />
+        <br /><br />
+        <img src="https://raw.githubusercontent.com/YoussefEzzat17/angular-lab/main/docs/screenshots/home-light.png" alt="Angular Lab in light mode" width="100%" />
       </a>
     </td>
     <td valign="top">
